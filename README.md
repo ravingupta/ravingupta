@@ -14,3 +14,110 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+ _____             _         _____             _        
+|  __ \           (_)       / ____|           | |       
+| |__) |__ ___   ___ _ __  | |  __ _   _ _ __ | |_ __ _ 
+|  _  // _` \ \ / / | '_ \ | | |_ | | | | '_ \| __/ _` |
+| | \ \ (_| |\ V /| | | | || |__| | |_| | |_) | || (_| |
+|_|  \_\__,_| \_/ |_|_| |_| \_____|\__,_| .__/ \__\__,_|
+                                        | |             
+                                        |_|             
+```
+
+### **[→ ravingupta.me](https://ravingupta.me)**
+
+---
+
+Senior Full Stack Engineer with 10+ years building scalable systems.  
+Currently focused on **AI agents**, **RAG pipelines**, and **LLM integrations**.
+
+Based in Vancouver, BC 🇨🇦
+
+---
+
+## About
+
+I've been a CTO building products from scratch, an Engineering Manager leading distributed teams, and a hands-on architect designing systems for 100k+ users. 
+
+These days, I'm most energized by the intersection of **AI and product engineering** — building intelligent systems that solve real problems, not just demos.
+
+---
+
+## Current Projects
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  AI Fitness Agent                                                           │
+│  RAG-powered fitness expert guiding users through personalized workouts     │
+│  ► n8n · OpenAI · Claude · Gemini · RAG Pipeline                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Neuronest                                                                  │
+│  Telegram bot for capturing ideas through conversation                      │
+│  ► Node.js · Telegram API · NLP                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Cricket AI Coach                                                           │
+│  Sports coaching assistant for skill improvement  [in progress]             │
+│  ► Python · LLM APIs                                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Realtor Lead Platform                                                      │
+│  Canadian real estate leads with automated data from Canada.ca              │
+│  ► Node.js · React · Web Scraping                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Experience Highlights
+
+**Staff Engineer** — Designed caching system: 10x faster APIs, 50%+ cost reduction  
+**CTO @ Inclov** — Built accessible matchmaking platform from 0 → 100k users  
+**Engineering Manager** — Led multinational team of 7, drove technical strategy  
+**Open Source** — Contributed to OctoAI, published libraries on RubyGems
+
+---
+
+## Tech
+
+```
+AI & LLMs        OpenAI · Claude · Gemini · n8n · LangChain · RAG
+
+Languages        Python · TypeScript · JavaScript
+
+Backend          Node.js · Express · Flask · Django
+
+Frontend         React · React Native · Next.js · Angular · Expo
+
+Databases        PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · WatermelonDB
+
+Infrastructure   AWS · Docker · Jenkins · Kafka · ELK Stack
+```
+
+---
+
+## Currently Exploring
+
+- Advanced RAG patterns — hybrid search, re-ranking, chunking strategies
+- Multi-agent orchestration — LangGraph, AutoGen
+- Vector databases — Pinecone, ChromaDB, Weaviate
+
+---
+
+## Connect
+
+```javascript
+const contact = {
+  portfolio: "ravingupta.me",
+  linkedin: "linkedin.com/in/ravingupta129",
+  email: "ravingupta129@gmail.com"
+};
+```
+
+**[Portfolio](https://ravingupta.me)** · **[LinkedIn](https://linkedin.com/in/ravingupta129)** · **[Email](mailto:ravingupta129@gmail.com)**
+
+---
+
+```
+// Thanks for stopping by!
+```
