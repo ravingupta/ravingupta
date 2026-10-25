@@ -50,18 +50,9 @@ These days, I'm most energized by the intersection of **AI and product engineeri
 | | | |
 |---|---|---|
 | **[tinefold](https://github.com/ravingupta/tinefold)** | AI brainstorming tool for software problems: choose between approaches, break them down until everything is decided, then write the PRD / TRD / design doc from what you decided. Runs in the browser, event-sourced, no backend. **[Live demo →](https://ravingupta.github.io/tinefold/)** | TypeScript · React · Zod · IndexedDB · Anthropic / OpenAI APIs |
-| **Internal Events Pipeline** | Moves engineering telemetry off Amplitude onto an AWS lakehouse: CloudFront → Fargate collector → Firehose → Parquet → Iceberg (S3 Tables) → Athena, with a schema registry, per-property PII rules and an internal web app. Built at Built with Science (private repo). | AWS CDK · Node.js · Athena · Iceberg · Next.js |
+| **Personal Agent** | The productivity tool I'm building now: a local-first personal assistant that captures notes, tasks and ideas from Slack, keeps them in Postgres with a full append-only history, and shows everything on my phone *(in progress)* | Python · Postgres · MCP · Claude |
 | **AI Fitness Agent** | RAG-powered fitness expert guiding users through personalized workouts | n8n · OpenAI · Claude · Gemini · RAG |
-| **Neuronest** | Telegram bot for capturing ideas through conversation | Node.js · Telegram API · NLP |
 | **Cricket AI Coach** | Sports coaching assistant for skill improvement *(in progress)* | Python · LLM APIs |
-
-## Earlier Projects
-
-| | | |
-|---|---|---|
-| **[Realtor AI Agent](https://www.agentforyou.ca)** | An AI assistant answering Canadian real-estate questions (mortgages, closing costs, first-time buyer programs) with no sales pitch attached. Shelved. | TypeScript · LLM APIs |
-| **[Star Tracker](https://github.com/ravingupta/star-tracker)** | Mobile companion for a Dobsonian telescope: GPS, compass guidance, Alt-Az alignment | TypeScript |
-| **[GuessWork](https://guesswork.ravingupta.me)** | A Wordle-inspired daily vocabulary game | JavaScript |
 
 ---
 
@@ -70,7 +61,7 @@ These days, I'm most energized by the intersection of **AI and product engineeri
 **Staff Engineer** — Designed caching system: 10x faster APIs, 50%+ cost reduction  
 **CTO @ Inclov** — Built accessible matchmaking platform from 0 → 100k users  
 **Engineering Manager** — Led multinational team of 7, drove technical strategy  
-**Open Source** — [tinefold](https://github.com/ravingupta/tinefold), contributions to OctoAI, libraries on RubyGems
+**Open Source** — [tinefold](https://github.com/ravingupta/tinefold), [devhub](https://github.com/ravingupta/devhub), [fianto](https://github.com/ravingupta/fianto), contributions to OctoAI, libraries on RubyGems
 
 ---
 
